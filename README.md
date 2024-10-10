@@ -6,4 +6,7 @@ Reading through this chapter I decided to create a module that identifies the Pn
 2. Assign equal values to each stock
 3. Determine expected returns
 4. Plot expected returns, actual returns and the S&P
+
+Ex. Investing into Google, Amazon, Nvidia and Microsoft looks like this 
+
 ![image](https://github.com/user-attachments/assets/622b6eb5-ad6d-4bd2-b502-59950a3feb75)
